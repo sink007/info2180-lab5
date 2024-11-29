@@ -1,1 +1,1 @@
-# info2180-lab5
+# This is Lab 5 for Levaughn Hines on PHP and MySQL
